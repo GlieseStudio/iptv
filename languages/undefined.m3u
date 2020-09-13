@@ -3,6 +3,8 @@
 http://1music.hu/1music.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Zahra TV" tvg-language="" tvg-logo="https://i.imgur.com/ffFbUmd.jpg" tvg-country="IR" tvg-url="" group-title="",Al Zahra TV
 https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:-1 tvg-id="Arte" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/xXRYZd6.png" tvg-country="FR" tvg-url="" group-title="",ARTE
+https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="NP" tvg-url="" group-title="",AVENUES TV
 http://stream-e30453a4b.nmbs.top/m3u/Nepal/f456950dd9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://azon.uz/assets/main/img/azon-tv.png" tvg-country="UZ" tvg-url="" group-title="",Azon TV
@@ -65,6 +67,8 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/ybHC32I.jpg" tvg-country="PK" tvg-url="" group-title="",Lahore News
 https://playlive.goonj.pk/lahorenewsweb_480p/index.m3u8
+#EXTINF:-1 tvg-id="LCI" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/6VzdKEa.png" tvg-country="FR" tvg-url="" group-title="",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/5iaUgYc.jpg" tvg-country="PK" tvg-url="" group-title="",LTN Family
 https://playlive.goonj.pk/ltnweb_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MA Télé" tvg-language="" tvg-logo="https://i.ibb.co/m48XZS7/matele.png" tvg-country="BE" tvg-url="" group-title="",MA Télé
@@ -109,7 +113,7 @@ http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692676/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/kKFfLMd.jpg" tvg-country="IN" tvg-url="" group-title="",Santhora Short Flim
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
-#EXTINF:-1 tvg-id="Smash TV-MLT" tvg-name="" tvg-language="" tvg-logo="https://static.iptv-epg.com/mt/SmashTV.mt.png" tvg-country="MT" tvg-url="http://epg.streamstv.me/epg/guide-malta.xml.gz" group-title="",Smash TV
+#EXTINF:-1 tvg-id="Smash TV-MLT" tvg-name="" tvg-language="" tvg-logo="https://static.iptv-epg.com/mt/SmashTV.mt.png" tvg-country="MT" tvg-url="" group-title="",Smash TV
 http://s3.smashmalta.com/hls/smash/smash.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" tvg-country="HK" tvg-url="" group-title="Sport",Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
@@ -119,8 +123,16 @@ http://185.19.191.12:8090/SVT2/mpegts
 https://i.mjh.nz/nz/tv.20.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.tamby.info/tv-tadjikistana-online/images/tvt.png" tvg-country="TJ" tvg-url="" group-title="",Televizioni Tojikiston
 http://185.121.2.6:8081/live/tvt1214/chunks.m3u8
+#EXTINF:-1 tvg-id="TF1 HD" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Y2C6vP7.png" tvg-country="FR" tvg-url="" group-title="",TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="TF1 Séries Films" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/qFLq6lE.png" tvg-country="FR" tvg-url="" group-title="",TF1 Séries Films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="TFX" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/yJ5JRAK.png" tvg-country="FR" tvg-url="" group-title="",TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" tvg-country="TH" tvg-url="" group-title="",Thai TV 7
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
+#EXTINF:-1 tvg-id="TMC" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/s9BIeQ8.png" tvg-country="FR" tvg-url="" group-title="",TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="NP" tvg-url="" group-title="",TV FILMY
 http://stream-e30453a4b.nmbs.top/m3u/Nepal/6a45212329.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Lux" tvg-language="" tvg-logo="https://www.tvlux.be/images/logo-TVLux-Naturellement-Proche-2017.png" tvg-country="BE" tvg-url="" group-title="",TV Lux

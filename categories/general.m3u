@@ -119,7 +119,7 @@ http://watch.teledunet.com:25461/live/tdn/23614613770/10146730.m3u8
 https://mysat-live.ercdn.net/lbcinternational/lbcinternational.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/YPR45yP.png" tvg-country="LB" tvg-url="" group-title="General",LBC International
 https://shls-lbci-prod.shahid.net/lbci-prod.m3u8
-#EXTINF:-1 tvg-id="Mikan-IS" tvg-name="כאן IL: Mikan" tvg-language="Arabic" tvg-logo="https://www.makan.org.il/images/logo_makan_33.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="General",Makan 33 מכאן
+#EXTINF:-1 tvg-id="Mikan-IS" tvg-name="כאן IL: Mikan" tvg-language="Arabic" tvg-logo="https://www.makan.org.il/images/logo_makan_33.png" tvg-country="IL" tvg-url="" group-title="General",Makan 33 מכאן
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://mkkwebtv.com.br/upload/logo_branco_MkkWeb_TV_okk_pequinino_20190503.jpg" tvg-country="BR" tvg-url="" group-title="General",MKK Web TV
 http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8

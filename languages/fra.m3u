@@ -7,8 +7,16 @@ http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
 #EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" tvg-country="FR" tvg-url="" group-title="Business",BFM Business
 https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" tvg-country="FR" tvg-url="" group-title="",BFM Grand Lille
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" tvg-country="FR" tvg-url="" group-title="",BFM Grand Littoral
+https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" tvg-country="FR" tvg-url="" group-title="",BFM Lyon
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" tvg-country="FR" tvg-url="" group-title="",BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" tvg-country="FR" tvg-url="" group-title="",BFMTV
+https://bfmtvalive1-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/YFEqBS7.png" tvg-country="FR" tvg-url="" group-title="",BipTV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" tvg-country="CD" tvg-url="" group-title="General",Boss Brothers TV

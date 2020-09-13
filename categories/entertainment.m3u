@@ -137,7 +137,7 @@ https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTC" tvg-language="Persian" tvg-logo="https://i.imgur.com/klmSMpG.jpg" tvg-country="IR" tvg-url="" group-title="Entertainment",MTC
 http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV-NO" tvg-name="MTV-NO" tvg-language="Norwegian Bokmål" tvg-logo="https://i.imgur.com/iviMrbO.jpg" tvg-country="NO" tvg-url="http://epg.streamstv.me/epg/guide-norway.xml.gz" group-title="Entertainment",MTV
+#EXTINF:-1 tvg-id="MTV-NO" tvg-name="MTV-NO" tvg-language="Norwegian Bokmål" tvg-logo="https://i.imgur.com/iviMrbO.jpg" tvg-country="NO" tvg-url="" group-title="Entertainment",MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/FOiUOeW.png" tvg-country="US" tvg-url="" group-title="Entertainment",MTV (Latin America)
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8

@@ -7,7 +7,7 @@ http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b192800
 http://ammacable.com:1935/acn/acncinema/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/B4U_MOVIES.png" tvg-country="IN" tvg-url="" group-title="Movies",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
-#EXTINF:-1 tvg-id="B4U Movies-IN" tvg-name="B4U Movies-IN" tvg-language="English" tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2017/03/b4umovies001.jpg" tvg-country="IN" tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz" group-title="Movies",B4U Movies
+#EXTINF:-1 tvg-id="B4U Movies-IN" tvg-name="B4U Movies-IN" tvg-language="English" tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2017/03/b4umovies001.jpg" tvg-country="IN" tvg-url="" group-title="Movies",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/IDLUf7r.png" tvg-country="RO" tvg-url="" group-title="Movies",Bollywood Clasic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
@@ -57,12 +57,6 @@ https://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GbQuvWG.png" tvg-country="PT" tvg-url="" group-title="Movies",Kuriakos Cine
 http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC 2 HD
-https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
-#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC Action HD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
-#EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC Drama
-https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC Max HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/pIuJqYk.png" tvg-country="US" tvg-url="" group-title="Movies",Movie Kingdom

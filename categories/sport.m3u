@@ -155,7 +155,7 @@ http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/1Tfidgz.png" tvg-country="FR" tvg-url="" group-title="Sport",Sport en France
 https://streamserv.mytvchain.com/sportenfrance/SP1564435593_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport 5-IS" tvg-name="IL: Sport 5 HD" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/a/ad/Sport5ch.svg/1920px-Sport5ch.svg.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="Sport",Sport אתר ספורט 5
+#EXTINF:-1 tvg-id="Sport 5-IS" tvg-name="IL: Sport 5 HD" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/a/ad/Sport5ch.svg/1920px-Sport5ch.svg.png" tvg-country="IL" tvg-url="" group-title="Sport",Sport אתר ספורט 5
 https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/A9ZuAZb.jpg" tvg-country="CH" tvg-url="" group-title="Sport",Sportal HD
 https://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8

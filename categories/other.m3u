@@ -411,6 +411,8 @@ https://p-mysat-live.ercdn.net/tarabtv/tarabtv.m3u8
 https://p-mysat-live.ercdn.net/artvariety/artvariety.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/YDNBw1S.png" tvg-country="GE" tvg-url="" group-title="",Artarea
 http://tv.cdn.xsg.ge/artarea/playlist.m3u8
+#EXTINF:-1 tvg-id="Arte" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/xXRYZd6.png" tvg-country="FR" tvg-url="" group-title="",ARTE
+https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="" tvg-country="KR" tvg-url="" group-title="",Arte HD
 http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Armenian" tvg-logo="https://i.imgur.com/yGK9VSf.jpg" tvg-country="AM" tvg-url="" group-title="",ARTN TV
@@ -545,8 +547,16 @@ http://vietcago.net/vstv/bentretv.m3u8
 https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png" tvg-country="TR" tvg-url="" group-title="",Beşiktaş Web TV
 https://s01.vpis.io/besiktas/besiktas.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" tvg-country="FR" tvg-url="" group-title="",BFM Grand Lille
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" tvg-country="FR" tvg-url="" group-title="",BFM Grand Littoral
+https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" tvg-country="FR" tvg-url="" group-title="",BFM Lyon
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" tvg-country="FR" tvg-url="" group-title="",BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" tvg-country="FR" tvg-url="" group-title="",BFMTV
+https://bfmtvalive1-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://www.bhaktisagartv.com/images/HD-Logo.png" tvg-country="IN" tvg-url="" group-title="",Bhakti Sagar
 https://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" tvg-country="PE" tvg-url="" group-title="",BHtv
@@ -667,11 +677,11 @@ http://77.89.199.174:8000/play/1024/index.m3u8
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/PtG4GsH.jpg" tvg-country="HK" tvg-url="" group-title="",C+頻道
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
-#EXTINF:-1 tvg-id="CSPAN-US" tvg-name="CSPAN-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10161_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",C-Span
+#EXTINF:-1 tvg-id="CSPAN-US" tvg-name="CSPAN-US" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10161_h3_aa.png" tvg-country="US" tvg-url="" group-title="",C-Span
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
-#EXTINF:-1 tvg-id="CSPAN 2-US" tvg-name="CSPAN 2-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cspan2.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",C-Span 2
+#EXTINF:-1 tvg-id="CSPAN 2-US" tvg-name="CSPAN 2-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cspan2.png" tvg-country="US" tvg-url="" group-title="",C-Span 2
 https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
-#EXTINF:-1 tvg-id="CSPAN 3-US" tvg-name="CSPAN 3-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cspan3.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",C-Span 3
+#EXTINF:-1 tvg-id="CSPAN 3-US" tvg-name="CSPAN 3-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cspan3.png" tvg-country="US" tvg-url="" group-title="",C-Span 3
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AFT43kx.png" tvg-country="ES" tvg-url="" group-title="",Cadena Elite
 https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
@@ -761,10 +771,12 @@ http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
 http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9BtSyV2.png" tvg-country="MX" tvg-url="" group-title="",Canal Mundo+
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" tvg-country="MX" tvg-url="" group-title="",Canal Once
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" tvg-country="MX" tvg-url="" group-title="",Canal Once Internacional
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" tvg-country="MX" tvg-url="" group-title="",Canal Once
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" tvg-country="MX" tvg-url="" group-title="",Canal Once Internacional
 https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" tvg-country="MX" tvg-url="" group-title="",Canal Once Nacional
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U842Z2c.png" tvg-country="ES" tvg-url="" group-title="",Canal Parlamento
 https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="AR" tvg-url="" group-title="",CANAL PROVINCIAL SAN MIGUEL
@@ -823,11 +835,11 @@ http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="",CBN Español
 https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
-#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",CBS
+#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="" group-title="",CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",CBS
+#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="" group-title="",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",CBS
+#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" tvg-country="US" tvg-url="" group-title="",CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" tvg-country="KR" tvg-url="" group-title="",CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
@@ -1039,7 +1051,7 @@ http://vietcago.net/vstv/daklaktv.m3u8
 http://streams2.livetv.az/azerbaijan/dalga/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/CePUeX6.jpg" tvg-country="PK" tvg-url="" group-title="",Dawn News
 https://playlive.goonj.pk/dawnnewsweb_480p/index.m3u8
-#EXTINF:-1 tvg-id="DD Punjabi-IN" tvg-name="DD Punjabi-IN" tvg-language="English" tvg-logo="http://webcast.gov.in/images/ddPunjabi.png" tvg-country="IN" tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz" group-title="",DD Punjabi
+#EXTINF:-1 tvg-id="DD Punjabi-IN" tvg-name="DD Punjabi-IN" tvg-language="English" tvg-logo="http://webcast.gov.in/images/ddPunjabi.png" tvg-country="IN" tvg-url="" group-title="",DD Punjabi
 https://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://webcast.gov.in/images/channel_two.png" tvg-country="IN" tvg-url="" group-title="",DD Vyas
 https://playhls.media.nic.in/live/vyas-360p/index.m3u8
@@ -1204,6 +1216,8 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_source/livestream.m3u8
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6ZwygmS.png" tvg-country="ES" tvg-url="" group-title="",Elche 7TV
 https://streaming.elche7tv.es/hls/canal1.m3u8
+#EXTINF:-1 tvg-id="eldo.lu" tvg-name="" tvg-language="Luxembourgish" tvg-logo="https://i.imgur.com/4ntor8S.png" tvg-country="LU" tvg-url="" group-title="",Eldoradio TV
+https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url="" group-title="",Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AonXAXu.png" tvg-country="SV" tvg-url="" group-title="",Elim TV
@@ -1646,6 +1660,8 @@ http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR
 https://hls396474.r-cdn.com/trn_61808/1140/remux/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/oXZQO0W.png" tvg-country="IT" tvg-url="" group-title="",Julie Italia
 https://59ef7ad665d1d.streamlock.net:1443/julieitalia/_definst_/julieitalia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/JusticiaTvMx/picture?width=200&height=200" tvg-country="MX" tvg-url="" group-title="",Justicia TV
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/4DEUpdm.jpg" tvg-country="KR" tvg-url="" group-title="",K+
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/OyOPRtq.png" tvg-country="AT" tvg-url="" group-title="",K-TV
@@ -1668,7 +1684,7 @@ http://82.212.74.2:8000/live/hls/7311.m3u8
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg" tvg-country="IN" tvg-url="" group-title="",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/vqfNbEU.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="",Kan 11
+#EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/vqfNbEU.png" tvg-country="IL" tvg-url="" group-title="",Kan 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Norwegian Bokmål" tvg-logo="https://i.imgur.com/XZHqsMw.png" tvg-country="NO" tvg-url="" group-title="",Kanal 10 Norge
 https://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
@@ -1830,6 +1846,8 @@ http://5a44e5b800a41.streamlock.net:1935/liveVLR1/mp4:LR1/playlist.m3u8
 http://5a44e5b800a41.streamlock.net:1935/liveVLR3/mp4:Klasika/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/39NuAwl.png" tvg-country="US" tvg-url="" group-title="",Law And Crime Network
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:-1 tvg-id="LCI" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/6VzdKEa.png" tvg-country="FR" tvg-url="" group-title="",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oe66woA.png" tvg-country="ES" tvg-url="" group-title="",Lebrija TV
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",Leipzig Fernsehen
@@ -1912,16 +1930,8 @@ http://195.29.70.84/PLTV/88888888/224/3221226027/index.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
 #EXTINF:-1 tvg-id="maxxi-tv" tvg-name="Maxxi-TV" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/PXCF5GX.jpg" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Maxxi-TV
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&app=playlist
-#EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="" group-title="",MBC
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
 #EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="" group-title="",MBC 3
 https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
-#EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-country="AE" tvg-url="" group-title="",MBC 4
-https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
-#EXTINF:-1 tvg-id="MBC 5 ARB" tvg-name="MBC 5 ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" tvg-country="AE" tvg-url="" group-title="",MBC 5
-https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="AE" tvg-url="" group-title="",MBC Drama+
-https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="SA" tvg-url="" group-title="",MBC FM
 https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/huebvDt.png" tvg-country="IQ" tvg-url="" group-title="",MBC Iraq
@@ -2154,7 +2164,7 @@ https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
 https://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SBUPUNm.png" tvg-country="PK" tvg-url="" group-title="",Nazrana TV
 https://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
-#EXTINF:-1 tvg-id="US-NBC HD New York" tvg-name="US-NBC HD New York" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",NBC
+#EXTINF:-1 tvg-id="US-NBC HD New York" tvg-name="US-NBC HD New York" tvg-language="English" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" tvg-country="US" tvg-url="" group-title="",NBC
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="",NBC
 http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
@@ -2268,7 +2278,7 @@ http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 http://highvolume04.streampartner.nl:1935/nos_pais_24_7/smil:livestream.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/8CWBmcN.png" tvg-country="BE" tvg-url="" group-title="",Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Nova Action-CZ" tvg-name="Nova Action-CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nova-action-logo-2017.png" tvg-country="CZ" tvg-url="http://epg.streamstv.me/epg/guide-cz.xml.gz" group-title="",Nova Action
+#EXTINF:-1 tvg-id="Nova Action-CZ" tvg-name="Nova Action-CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nova-action-logo-2017.png" tvg-country="CZ" tvg-url="" group-title="",Nova Action
 http://92.62.234.223/102/mystream.m3u8
 #EXTINF:-1 tvg-id="Nova TV BG" tvg-name="Nova TV BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/gU4gSR0.jpg" tvg-country="BG" tvg-url="" group-title="",Nova TV
 https://e100-nlds107.cdn.bg/nlds/novaplay2/novaent/as/live/novaent_hd_1600_pc.m3u8
@@ -2512,7 +2522,7 @@ https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="https://prahatv.eu/images/layout/header/logo.png" tvg-country="CZ" tvg-url="" group-title="",Praha TV
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Prima Cool HD-CZ" tvg-name="Prima Cool HD-CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Prima_Cool_logo.svg/1200px-Prima_Cool_logo.svg.png" tvg-country="CZ" tvg-url="http://epg.streamstv.me/epg/guide-cz.xml.gz" group-title="",Prima Cool
+#EXTINF:-1 tvg-id="Prima Cool HD-CZ" tvg-name="Prima Cool HD-CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Prima_Cool_logo.svg/1200px-Prima_Cool_logo.svg.png" tvg-country="CZ" tvg-url="" group-title="",Prima Cool
 http://92.62.234.223/104/mystream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="http://2.bp.blogspot.com/-nbAar05h3ZU/TV4Kwi0PX2I/AAAAAAAAAHI/pFwNnGVVJeA/s1600/Prima_Love_logo_2011.png" tvg-country="CZ" tvg-url="" group-title="",Prima Love
 http://92.62.234.223/101/mystream.m3u8
@@ -2822,6 +2832,14 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
 http://188.35.9.5:10020/stolen/479d/hot.dll
 #EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus" tvg-language="German" tvg-logo="https://cdn.static-fra.de/rtlplus/images/template/rtlplus_logo.png" tvg-country="DE" tvg-url="" group-title="",RTL Plus
 http://188.35.9.5:10020/stolen/480c/hot.dll
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Luxembourgish" tvg-logo="https://i.imgur.com/H9dHlfv.png" tvg-country="LU" tvg-url="" group-title="",RTL Télé Lëtzebuerg
+https://live-edge.rtl.lu/channel1/smil:channel1/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Luxembourgish" tvg-logo="https://i.imgur.com/H9dHlfv.png" tvg-country="LU" tvg-url="" group-title="",RTL Télé Lëtzebuerg
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Luxembourgish" tvg-logo="https://i.imgur.com/42f0krb.png" tvg-country="LU" tvg-url="" group-title="",RTL Zwee
+https://live-edge.rtl.lu/channel1/smil:channel2/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Luxembourgish" tvg-logo="https://i.imgur.com/42f0krb.png" tvg-country="LU" tvg-url="" group-title="",RTL Zwee
+https://live-edge.rtl.lu/channel1/smil:channel2/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL-TVi BE" tvg-name="RTL-TVi BE" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-country="BE" tvg-url="" group-title="",RTL-TVi
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 #EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL2_Logo.svg/2000px-RTL2_Logo.svg.png" tvg-country="DE" tvg-url="" group-title="",RTL2
@@ -3059,7 +3077,7 @@ http://eu.live.skyfolk.mk/live.m3u8
 http://skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/dauuWLp.png" tvg-country="TH" tvg-url="" group-title="",Smart SME Channel
 https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-id="Smash TV-MLT" tvg-name="" tvg-language="" tvg-logo="https://static.iptv-epg.com/mt/SmashTV.mt.png" tvg-country="MT" tvg-url="http://epg.streamstv.me/epg/guide-malta.xml.gz" group-title="",Smash TV
+#EXTINF:-1 tvg-id="Smash TV-MLT" tvg-name="" tvg-language="" tvg-logo="https://static.iptv-epg.com/mt/SmashTV.mt.png" tvg-country="MT" tvg-url="" group-title="",Smash TV
 http://s3.smashmalta.com/hls/smash/smash.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/l2JSQme.png" tvg-country="PH" tvg-url="" group-title="",SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
@@ -3099,7 +3117,7 @@ https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="" tvg-country="NL" tvg-url="" group-title="",Streekomroep START
 https://media.streamone.net/hlslive/account=gbYAOsqLTJ8y/livestream=YzIFOeIABwUW/events.m3u8
-#EXTINF:-1 tvg-id="Studio B-EXYU" tvg-name="Studio B-EXYU" tvg-language="Serbian" tvg-logo="https://i.imgur.com/1p4U6TP.png" tvg-country="RS" tvg-url="http://epg.streamstv.me/epg/guide-exyu.xml.gz" group-title="",Studio B
+#EXTINF:-1 tvg-id="Studio B-EXYU" tvg-name="Studio B-EXYU" tvg-language="Serbian" tvg-logo="https://i.imgur.com/1p4U6TP.png" tvg-country="RS" tvg-url="" group-title="",Studio B
 http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PrNVVOu.png" tvg-country="SY" tvg-url="" group-title="",Suboro TV
 https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/playlist.m3u8
@@ -3372,6 +3390,12 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/1SapDQU.jpg" tvg-country="RO" tvg-url="" group-title="",Tezaur TV
 http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TF1 HD" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Y2C6vP7.png" tvg-country="FR" tvg-url="" group-title="",TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="TF1 Séries Films" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/qFLq6lE.png" tvg-country="FR" tvg-url="" group-title="",TF1 Séries Films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="TFX" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/yJ5JRAK.png" tvg-country="FR" tvg-url="" group-title="",TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="TG4.ie" tvg-name="TG4" tvg-language="English" tvg-logo="https://i.imgur.com/TT9kAEp.png" tvg-country="IE" tvg-url="" group-title="",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/aNExu5R.jpg" tvg-country="TH" tvg-url="" group-title="",TGN
@@ -3464,6 +3488,8 @@ https://pa9agxjg.rocketcdn.com/tlctv.smil/index.m3u8
 http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1XgRcmd.png" tvg-country="AR" tvg-url="" group-title="",TLX
 https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
+#EXTINF:-1 tvg-id="TMC" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/s9BIeQ8.png" tvg-country="FR" tvg-url="" group-title="",TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wzBD6fy.png" tvg-country="US" tvg-url="" group-title="",TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/nsxrqta.jpg" tvg-country="AE" tvg-url="" group-title="",Toheed TV
@@ -3582,7 +3608,7 @@ http://stream-e30453a4b.nmbs.top/m3u/Nepal/6a45212329.m3u8
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/GUBVccx.png" tvg-country="DE" tvg-url="" group-title="",TV Halle
 http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8
-#EXTINF:-1 tvg-id="TV Hram-EXYU" tvg-name="TV Hram-EXYU" tvg-language="Serbian" tvg-logo="https://i.imgur.com/Msxeu2S.png" tvg-country="RS" tvg-url="http://epg.streamstv.me/epg/guide-exyu.xml.gz" group-title="",TV Hram
+#EXTINF:-1 tvg-id="TV Hram-EXYU" tvg-name="TV Hram-EXYU" tvg-language="Serbian" tvg-logo="https://i.imgur.com/Msxeu2S.png" tvg-country="RS" tvg-url="" group-title="",TV Hram
 http://178.253.194.75:1935/live/hram.stream/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" tvg-country="MY" tvg-url="" group-title="",TV Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
@@ -3862,8 +3888,6 @@ http://45.55.127.106/live/unicanal.m3u8
 http://136.243.3.70:1935/Unitel/Unitel/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/UadE0xZ.png" tvg-country="GE" tvg-url="" group-title="",Universe HD Channel
 http://tv.cdn.xsg.ge/universehd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WxRpFPk.jpg" tvg-country="MX" tvg-url="" group-title="",Uno TV
-https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png" tvg-country="DE" tvg-url="" group-title="",Unserding
 https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/7OsxUER.png" tvg-country="PH" tvg-url="" group-title="",UNTV
@@ -3896,7 +3920,7 @@ https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
 http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/kXDdx0h.png" tvg-country="IT" tvg-url="" group-title="",Vera TV Marche
 http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8
-#EXTINF:-1 tvg-id="VH1 - Eastern Feed-US" tvg-name="VH1 - Eastern Feed-US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="",VH1
+#EXTINF:-1 tvg-id="VH1 - Eastern Feed-US" tvg-name="VH1 - Eastern Feed-US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" tvg-country="US" tvg-url="" group-title="",VH1
 https://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" tvg-country="IT" tvg-url="" group-title="",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8

@@ -151,10 +151,12 @@ http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/playlist.m3u8
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BXmmroM.jpg" tvg-country="ES" tvg-url="" group-title="Local",Canal Málaga
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" tvg-country="MX" tvg-url="" group-title="",Canal Once
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" tvg-country="MX" tvg-url="" group-title="",Canal Once Internacional
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" tvg-country="MX" tvg-url="" group-title="",Canal Once
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" tvg-country="MX" tvg-url="" group-title="",Canal Once Internacional
 https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" tvg-country="MX" tvg-url="" group-title="",Canal Once Nacional
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U842Z2c.png" tvg-country="ES" tvg-url="" group-title="",Canal Parlamento
 https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="AR" tvg-url="" group-title="",CANAL PROVINCIAL SAN MIGUEL
@@ -341,6 +343,8 @@ https://interalmeria.tv/directo/live.m3u8
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9sKGsmt.png" tvg-country="CL" tvg-url="" group-title="",ITV Patagonia
 https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/JusticiaTvMx/picture?width=200&height=200" tvg-country="MX" tvg-url="" group-title="",Justicia TV
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="LA 1 ES" tvg-name="LA 1 ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0mGTdcg.png" tvg-country="ES" tvg-url="" group-title="",La 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pRbp0eZ.png" tvg-country="AR" tvg-url="" group-title="",LA 90 FM
@@ -673,8 +677,6 @@ http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
 http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7lkIFVg.jpg" tvg-country="BO" tvg-url="" group-title="",Unitel
 http://136.243.3.70:1935/Unitel/Unitel/chunklist_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WxRpFPk.jpg" tvg-country="MX" tvg-url="" group-title="",Uno TV
-https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://imgur.com/eEoRNnt.png" tvg-country="ES" tvg-url="" group-title="",Urban Revolution TV
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/w83wr1S.png" tvg-country="ES" tvg-url="" group-title="",Urola Telebista

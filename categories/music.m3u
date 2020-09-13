@@ -21,7 +21,7 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png" tvg-country="IN" tvg-url="" group-title="Music",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-id="B4U Music-IN" tvg-name="B4U Music-IN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" tvg-country="IN" tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz" group-title="Music",B4U Music
+#EXTINF:-1 tvg-id="B4U Music-IN" tvg-name="B4U Music-IN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" tvg-country="IN" tvg-url="" group-title="Music",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" tvg-country="IN" tvg-url="" group-title="Music",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
@@ -35,7 +35,7 @@ https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-language="English" tvg-logo="https://i.imgur.com/iv85GCc.png" tvg-country="UK" tvg-url="" group-title="Music",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 tvg-id="California Music Channel(CMTV)-US" tvg-name="California Music Channel(CMTV)-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="Music",California Music Channel
+#EXTINF:-1 tvg-id="California Music Channel(CMTV)-US" tvg-name="California Music Channel(CMTV)-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png" tvg-country="US" tvg-url="" group-title="Music",California Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Caltex TV" tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/caltex-music-tv.png" tvg-country="IR" tvg-url="" group-title="Music",Caltex TV
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
@@ -243,9 +243,9 @@ http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.
 http://singamcloud.in/rasimusic/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/T2K6xqz.jpg" tvg-country="NL" tvg-url="" group-title="Music",Redlight Radio
 http://cdn-hlm-1.streamnerd.nl/live/redlightradio/playlist.m3u8
-#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" tvg-country="CZ" tvg-url="http://epg.streamstv.me/epg/guide-cz.xml.gz" group-title="Music",Retro Music Television
+#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-language="Czech" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" tvg-country="CZ" tvg-url="" group-title="Music",Retro Music Television
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-language="Czech" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" tvg-country="CZ" tvg-url="http://epg.streamstv.me/epg/guide-cz.xml.gz" group-title="Music",Retro Music Television
+#EXTINF:-1 tvg-id="Retro Music TV-CZ" tvg-name="Retro Music TV-CZ" tvg-language="Czech" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" tvg-country="CZ" tvg-url="" group-title="Music",Retro Music Television
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV" tvg-language="Russian" tvg-logo="https://i.imgur.com/0ujfLYr.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",RU.TV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8

@@ -63,7 +63,7 @@ https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
 https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/abpmajha78.jpg" tvg-country="IN" tvg-url="" group-title="News",ABP Majha
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
-#EXTINF:-1 tvg-id="ABP News-IN" tvg-name="ABP News-IN" tvg-language="English" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" tvg-country="IN" tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz" group-title="News",ABP News
+#EXTINF:-1 tvg-id="ABP News-IN" tvg-name="ABP News-IN" tvg-language="English" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" tvg-country="IN" tvg-url="" group-title="News",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acv_in_news.png" tvg-country="IN" tvg-url="" group-title="News",ACV News
 https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
@@ -73,12 +73,8 @@ http://live2.alalam.ir/live/Alalam_high/index.m3u8
 https://live2.alalamtv.net/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" tvg-country="AE" tvg-url="" group-title="News",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" tvg-country="AE" tvg-url="" group-title="News",Al Arabiya
-https://shls-alarabiya-prod.shahid.net/alarabiya-prod.m3u8
 #EXTINF:-1 tvg-id="Al Arabiya Al Hadath ARB" tvg-name="Al Arabiya Al Hadath ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" tvg-country="AE" tvg-url="" group-title="News",Al Arabiya Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Arabiya Al Hadath ARB" tvg-name="Al Arabiya Al Hadath ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" tvg-country="AE" tvg-url="" group-title="News",Al Arabiya Al Hadath
-https://shls-hadath-prod.shahid.net/hadath-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LNI1HNi.png" tvg-country="UK" tvg-url="" group-title="News",Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Hurra ARB" tvg-name="Al Hurra ARB" tvg-language="Arabic" tvg-logo="https://gdb.alhurra.eu/C4BE79AD-607A-4EBA-8449-7CC6E2B12566_w1200_r1_s.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Hurra
@@ -219,9 +215,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://df7lqp0btxdx2.cloudfront.net/11227.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/AyqNnHj.png" tvg-country="PH" tvg-url="" group-title="News",CNN Phillippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="DD News-IN" tvg-name="DD News-IN" tvg-language="English" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" tvg-country="IN" tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz" group-title="News",DD News
+#EXTINF:-1 tvg-id="DD News-IN" tvg-name="DD News-IN" tvg-language="English" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" tvg-country="IN" tvg-url="" group-title="News",DD News
 http://bit.ly/2m4L4mi
-#EXTINF:-1 tvg-id="DD News-IN" tvg-name="DD News-IN" tvg-language="English" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" tvg-country="IN" tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz" group-title="News",DD News
+#EXTINF:-1 tvg-id="DD News-IN" tvg-name="DD News-IN" tvg-language="English" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" tvg-country="IN" tvg-url="" group-title="News",DD News
 https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Swedish" tvg-logo="https://i.imgur.com/zApTDWn.png" tvg-country="SE" tvg-url="" group-title="News",Di TV
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
@@ -293,7 +289,7 @@ http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 https://iptv.mihantv.com/live/playlist1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" tvg-country="LB" tvg-url="" group-title="News",NBN
 http://localhd.tv:8081/north7/north7/1874
-#EXTINF:-1 tvg-id="NDTV 24x7-IN" tvg-name="NDTV 24x7-IN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/NDTV_247.svg" tvg-country="IN" tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz" group-title="News",NDTV 24x7
+#EXTINF:-1 tvg-id="NDTV 24x7-IN" tvg-name="NDTV 24x7-IN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/NDTV_247.svg" tvg-country="IN" tvg-url="" group-title="News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/80vwZaO.png" tvg-country="IN" tvg-url="" group-title="News",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
@@ -367,7 +363,7 @@ http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567723990~exp=1567726990~acl=/*~hmac=40fec7023d1d84b24d1267d9ee0ab92bceff3d35274ebef7be58aaeea1472868
 #EXTINF:-1 tvg-id="russia-today" tvg-name="https://i.imgur.com/fXqy322.png" tvg-language="English" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",RT
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
-#EXTINF:-1 tvg-id="RT America-US" tvg-name="RT America-US" tvg-language="English" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="News",RT America
+#EXTINF:-1 tvg-id="RT America-US" tvg-name="RT America-US" tvg-language="English" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" tvg-country="US" tvg-url="" group-title="News",RT America
 https://rt-usa.secure.footprint.net/1105.m3u8
 #EXTINF:-1 tvg-id="Rusiya Al Yaum ARB" tvg-name="Rusiya Al Yaum ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XYJEasM.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="News",RT Arabic
 https://rt-arab.secure.footprint.net/1104.m3u8
@@ -408,7 +404,7 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/4123.png" tvg-country="IN" tvg-url="" group-title="News",Thanthi TV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="Times Now HD-IN" tvg-name="Times Now HD-IN" tvg-language="English" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" tvg-country="IN" tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz" group-title="News",Times Now
+#EXTINF:-1 tvg-id="Times Now HD-IN" tvg-name="Times Now HD-IN" tvg-language="English" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" tvg-country="IN" tvg-url="" group-title="News",Times Now
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" tvg-country="IN" tvg-url="" group-title="News",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
